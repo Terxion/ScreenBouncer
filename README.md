@@ -3,6 +3,6 @@
 - You'll need these libraries:
 ```
 PIL
-Tkinter
+tkinter
 PyWin32
 ```
