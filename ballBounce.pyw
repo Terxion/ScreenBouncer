@@ -11,7 +11,7 @@ def update():
     if(x<=0 or x+r>=w):
         sx*=-1
     if(y<=0 or y+r>=h):
-            sy*=-1
+        sy*=-1
 
     x += sx
     y += sy
