@@ -3,6 +3,7 @@
 - Only works on windows
 - Only way to turn it off is by killing it in task manager
 - Kinda annoying
+- You can change the speed of the png by modifying the sx and sy variable
 - You'll need these libraries:
 ```
 PIL
