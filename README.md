@@ -6,7 +6,7 @@
 - You can change the speed of the png by modifying the sx and sy variable
 - You'll need these libraries:
 ```
-PIL
+Pillow
 tkinter
 PyWin32
 ```
